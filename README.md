@@ -1,14 +1,14 @@
-# Automobile-Mileage-Prediction
+## Automobile-Mileage-Prediction
 
 This repository contains a linear regression model that accurately predicts the mileage of used cars. The model has been built by leveraging input data and following a structured data analysis process. This readme file provides an overview of the project.
 
-## Project Overview
+### Project Overview
 
 - **Objective:** The primary objective of this project is to predict the mileage of used cars based on various input features.
 
 - **Model:** We have implemented a linear regression model for this task. Linear regression is a simple and effective method for predicting numeric values.
 
-## Key Tasks
+### Key Tasks
 
 1. **Data Cleaning and Preparation:**
    - Led the data cleaning and preparation processes to ensure high data quality and reliability for analysis.
